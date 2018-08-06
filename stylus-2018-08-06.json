@@ -1,0 +1,23 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1533546069235,
+		"name": "laravel web",
+		"sections": [
+			{
+				"urls": [],
+				"urlPrefixes": [
+					"https://laravel.com/docs/"
+				],
+				"domains": [],
+				"regexps": [],
+				"code": "\n.sidebar h2 {\n    font-size: 16px !important;\n}\n.sidebar>ul>li>ul {\n    font-size: 15px !important;\n}\n.docs article h2 {\n    margin-top: 30px !important;\n}\n.docs article h3 {\n    margin-top: 25px !important;\n    font-size: 20px !important;\n}\n.docs article h4 {\n    margin-top: 20px !important;\n}\n.docs article h1+ul {\n    font-size: 16px !important;\n}\n\n.docs article li>ul {\n    font-size: 15px !important;\n}\n\n.docs article {\n    padding: 0 !important;\n}\n\n.docs article p {\n    font-size: 16px !important;\n}\n\n.docs article code[class*=language-], .docs article pre[class*=language-] {\n    font-size: 15px !important;\n    line-height: 1.5 !important;\n}"
+			}
+		],
+		"id": 1
+	}
+]
